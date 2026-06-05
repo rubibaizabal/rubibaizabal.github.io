@@ -1,1 +1,37 @@
 # rubibaizabal.github.io
+<!DOCTYPE html>
+<html>
+<head>
+<title> 604-700 HW1 QUESTION 5 </title> 
+</head>
+<body>
+<table>
+<tr>
+<td> 
+       <a href="https://artsci.tamu.edu/statistics/index.html"> Texas A&M University Statistics Department </a>
+
+</td>
+<td> 
+       <img width = 250 src = "IMG_2564.jpeg" />
+</td>
+</tr>
+
+<tr>
+<td>
+       <ul >
+              <li> I recently began my university studies through online classes. </li>
+                 <li> During my first week, I have started learning new topics and adapting to the online learning
+             </ul>
+</td>
+
+       <td>
+       </td>
+
+</tr>
+     
+
+</table>
+
+
+</body>
+</html>
